@@ -8,7 +8,7 @@
 
 ## 🔭 Currently Working On
 - 💱 [USD/TWD FX Strategy Model](https://github.com/Karia-code/usd-twd-election-strategy): Backtest + macro-event logic
-- 🧠 [HeartMate](https://github.com/Karia-code/heartmate-ai): HRV-based emotional AI assistant (MAX78000 + SwiftUI)
+- 🧠 [HeartMate](https://github.com/Karia-code/heartmate-ai): HRV-based emotional AI assistant (MAX78000 + SwiftUI) (STILL WORKING)
 - 🔊 Speech classification (CNN vs BiLSTM): audio ML model comparison with augmentation
 
 ---
